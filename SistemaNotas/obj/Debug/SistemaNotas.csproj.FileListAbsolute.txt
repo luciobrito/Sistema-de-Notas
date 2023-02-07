@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\trabalhos\Winforms\SistemaNotas\SistemaNotas\bin\Debug\SistemaNotas.exe.config
+C:\Users\Admin\Desktop\trabalhos\Winforms\SistemaNotas\SistemaNotas\bin\Debug\SistemaNotas.exe
+C:\Users\Admin\Desktop\trabalhos\Winforms\SistemaNotas\SistemaNotas\bin\Debug\SistemaNotas.pdb
+C:\Users\Admin\Desktop\trabalhos\Winforms\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\trabalhos\Winforms\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\trabalhos\Winforms\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.Form1.resources
+C:\Users\Admin\Desktop\trabalhos\Winforms\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.Properties.Resources.resources
+C:\Users\Admin\Desktop\trabalhos\Winforms\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\trabalhos\Winforms\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\trabalhos\Winforms\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.exe
+C:\Users\Admin\Desktop\trabalhos\Winforms\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.pdb
